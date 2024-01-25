@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.home{
+  width: 1440px;
+  height: 780px;
+  text-align: center;
+  background-image:url(./images/bckgrnd_img.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.txt{
+  text-align: center;
+}
+.btn{
+  width: 120px;
+  height: 30px;
+  padding: 6px;
+  font-size: medium;
+  border-radius: 5px;
+  background-color: navy;
+  color: white;
+  border: none;
+ 
+}
+  
+a{
+  text-decoration:none ;
+  color: white;
+}
+.lgn{
+  text-align: center;
+  
+  
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 1440px;
+  height: 780px;
+ 
+  
+}
+.mg{
+  text-align: center;
+  width: 840px;
+  height: 680px;
+  margin: 40px auto;
+  margin-top: 120px;
+  color: black;
+  border-radius: 5px;
+  box-shadow: 8px  rgb(206, 237, 206);
+  border: 2px solid;
+  font-size: 24px;
+
+  
+}
+p{
+  color: black;
+}
+
+.sign{
+  width: 350px;
+  height: 250px;
+  
+  margin: 40px auto;
+  margin-top: 120px;
+   border: 2px solid;
+  font-size: 16px;
+  background: white;
+  box-shadow: 5px  rgb(206, 237, 206);
+  border-radius: 5px;
+}
+.img{
+  width:100px;
+  height: 95px;
+  background-image: url(./images/logo.png);
+  margin: auto;
+  margin-top: 18px;
+ 
+}
